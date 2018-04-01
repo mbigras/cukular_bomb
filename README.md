@@ -2,6 +2,10 @@
 
 > Example repo to illustrate how the cucumber stack trace is too harsh to beginners.
 
+Converstation
+
+https://github.com/cucumber/cucumber-ruby/pull/1286
+
 ## Main idea
 
 ```
